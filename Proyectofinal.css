@@ -1,0 +1,163 @@
+body {
+    padding: 0;
+    margin: 0;
+    }
+.contenedor1{
+    border:  solid 1px white;
+    height: 45px;
+    display: flex;
+    
+}
+.contenedor2{
+    border:  solid 1px white;
+    height: 450px;
+    background-image: url(/ProyectoFinal/ttyty.jpg);  
+    
+    
+}
+.contenedor3{
+    height: 53px;
+    display: flex;
+    
+}
+.titulo3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    color: #0fa2d8;
+}
+
+
+#formulario{
+    margin-left: 1100px;
+    margin-top: 43px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    text-align: center;
+    border: solid black ; width: 190px; height: 355px; 
+    background-color:rgba(0, 0, 0, 0.199) ;
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+    border-width: thin;
+}
+.boton{
+    margin-left: 0px;
+}
+.b1{
+    width: 475px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b1logo{
+    
+    height: 46px;
+    background-image: url(/ProyectoFinal/JP.JPG);
+    width: 230px;
+    margin-left: 5px;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+.b2{
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
+.b3{
+    width: 250px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}   
+.b4{
+    width: 60px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 110px;
+}   
+.b5{
+    width: 60px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}   
+.boton2{
+    margin-top: 19px;
+    padding: 0;
+    border: none;
+    background: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.boton2:hover{
+    background-color: #4d9dc7;
+}
+.Title{
+    text-align: center;
+}
+.select{
+    width: 158px;
+    text-align: center;
+}
+#continfo{
+    border:  solid 1px black;
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 312px;
+    background-color: rgba(0, 0, 0, 0.308);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 600px;
+    height: 132px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    text-align: center;
+    font-size: 20px;
+    text-align: ;
+}
+.continfo2{
+    border:  solid 1px black;
+    width: 190px;
+    height: 17px;
+    margin-right: 1000px;
+    margin-top: 370px;
+
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    margin-left: 550px;
+    background-image: url(/ProyectoFinal/Perrito\ cert.JPG);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    cursor: pointer;
+}
+.box2{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;  
+    margin-left: 60px;
+    background-image: url(/ProyectoFinal/Cat\ cert.JPG);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    cursor: pointer;
+}
+.box3{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;  
+    margin-left: 60px; 
+    background-image: url(/ProyectoFinal/vacuna.JPG);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;  
+    cursor: pointer;
+}
+
+@media screen and (min-width:667px) {
+    
+}
